@@ -23,7 +23,7 @@ import os
 import time
 import numpy as np
 import tensorflow as tf
-from util import load_embeddings
+from sciSum.util import load_embeddings
 from tensorflow.contrib.tensorboard.plugins import projector
 from tensorflow.python.ops import array_ops
 from six.moves import xrange
