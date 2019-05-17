@@ -26,7 +26,7 @@ from threading import Thread
 import time
 import numpy as np
 import tensorflow as tf
-import data
+import sciSum.data as data
 
 # To represent list of sections as string and retrieve it back
 SECTION_SEPARATOR = ' <SCTN/> '
