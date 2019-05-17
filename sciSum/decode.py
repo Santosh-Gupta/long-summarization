@@ -21,11 +21,11 @@ import re
 import os
 import time
 import tensorflow as tf
-import beam_search
-import data
+import sciSum.beam_search as beam_search
+import sciSum.data as data
 import json
 import pyrouge
-import util
+import sciSum.util as sciSum
 import logging
 import numpy as np
 import pandas as pd
