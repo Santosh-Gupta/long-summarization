@@ -18,7 +18,7 @@
 
 import tensorflow as tf
 import numpy as np
-import data
+import sciSum.data as data
 from six.moves import xrange
 import heapq
 
